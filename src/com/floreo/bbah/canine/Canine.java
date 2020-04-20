@@ -1,4 +1,4 @@
-package com.floreo.bbah;
+package com.floreo.bbah.canine;
 
 public interface Canine {
 

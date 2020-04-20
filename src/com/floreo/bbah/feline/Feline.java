@@ -1,4 +1,4 @@
-package com.floreo.bbah;
+package com.floreo.bbah.feline;
 
 public interface Feline {
 
