@@ -1,5 +1,6 @@
 package com.floreo.bbah.canine;
 
+
 public class Wolf implements Canine {
 
     int skullSize;

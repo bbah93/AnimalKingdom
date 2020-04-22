@@ -1,13 +1,14 @@
 package com.floreo.bbah.canine;
 
+
 public class Fox implements Canine {
 
     boolean isSolitary;
-    boolean isOmnviore;
+    boolean isOmnivore;
 
-    public Fox(boolean isSolitary, boolean isOmnviore) {
+    public Fox(boolean isSolitary, boolean isOmnivore) {
         this.isSolitary = isSolitary;
-        this.isOmnviore = isOmnviore;
+        this.isOmnivore = isOmnivore;
     }
 
     @Override

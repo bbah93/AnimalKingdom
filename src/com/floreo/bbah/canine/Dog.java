@@ -1,5 +1,6 @@
 package com.floreo.bbah.canine;
 
+
 public class Dog implements Canine {
 
     int weight;
