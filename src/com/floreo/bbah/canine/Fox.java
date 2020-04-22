@@ -1,7 +1,9 @@
 package com.floreo.bbah.canine;
 
 
-public class Fox implements Canine {
+import com.floreo.bbah.Animal;
+
+public class Fox extends Animal implements Canine {
 
     boolean isSolitary;
     boolean isOmnivore;

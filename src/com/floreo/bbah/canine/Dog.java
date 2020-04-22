@@ -1,7 +1,9 @@
 package com.floreo.bbah.canine;
 
 
-public class Dog implements Canine {
+import com.floreo.bbah.Animal;
+
+public class Dog extends Animal implements Canine {
 
     int weight;
     boolean isDomesticated;
